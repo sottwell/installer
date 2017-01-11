@@ -26,93 +26,93 @@ $InstallData = array(
     'revo2.5.2-pl'      => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.5.2 Traditional (15.11.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.5.2-pl.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.5.2-pl.zip',
         'location' => 'setup/index.php'
     ),
     'revo2.5.2-ad'      => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.5.2 Advanced (15.11.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.5.2-pl-advanced.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.5.2-pl-advanced.zip',
         'location' => 'setup/index.php'
     ),
     'revo2.5.2-sdk'      => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.5.2 SDK (15.11.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.5.2-pl-sdk.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.5.2-pl-sdk.zip',
         'location' => 'setup/index.php'
     ),
 
     'revo2.5.1-pl'      => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.5.1 Traditional (21.07.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.5.1-pl.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.5.1-pl.zip',
         'location' => 'setup/index.php'
     ),
     'revo2.5.1-ad'      => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.5.1 Advanced (21.07.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.5.1-pl-advanced.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.5.1-pl-advanced.zip',
         'location' => 'setup/index.php'
     ),
     'revo2.5.1-sdk'      => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.5.1 SDK (21.07.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.5.1-pl-sdk.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.5.1-pl-sdk.zip',
         'location' => 'setup/index.php'
     ),
 
     'revo2.5.0-pl'      => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.5.0 Traditional (21.04.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.5.0-pl.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.5.0-pl.zip',
         'location' => 'setup/index.php'
     ),
     'revo2.5.0-ad'      => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.5.0 Advanced (21.04.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.5.0-pl-advanced.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.5.0-pl-advanced.zip',
         'location' => 'setup/index.php'
     ),
     'revo2.5.0-sdk'      => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.5.0 SDK (21.04.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.5.0-pl-sdk.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.5.0-pl-sdk.zip',
         'location' => 'setup/index.php'
     ),
     'revo2.4.4-pl'      => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.4.4 Traditional (04.06.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.4.4-pl.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.4.4-pl.zip',
         'location' => 'setup/index.php'
     ),
     'revo2.4.4-ad'      => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.4.4 Advanced (04.06.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.4.4-pl-advanced.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.4.4-pl-advanced.zip',
         'location' => 'setup/index.php'
     ),
     'revo2.4.4-sdk'     => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.4.4 SDK (04.06.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.4.4-pl-sdk.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.4.4-pl-sdk.zip',
         'location' => 'setup/index.php'
     ),
     'revo2.4.3-pl'      => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.4.3 Traditional (02.11.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.4.3-pl.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.4.3-pl.zip',
         'location' => 'setup/index.php'
     ),
     'revo2.4.3-ad'      => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.4.3 Advanced (02.11.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.4.3-pl-advanced.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.4.3-pl-advanced.zip',
         'location' => 'setup/index.php'
     ),
     'revo2.4.3-sdk'     => array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.4.3 SDK (02.11.2016)',
-        'link'     => 'https://modx.com/download/direct/modx-2.4.3-pl-sdk.zip',
+        'link'     => 'https://modx.com/download/direct?id=modx-2.4.3-pl-sdk.zip',
         'location' => 'setup/index.php'
     )
 );
@@ -151,27 +151,27 @@ class ModxInstaller {
                 curl_setopt($ch, CURLOPT_TIMEOUT, 50);
                 curl_setopt($ch, CURLOPT_FILE, $newf);
                 $safeMode = @ini_get('safe_mode');
-								$openBasedir = @ini_get('open_basedir');
-								if (empty($safeMode) && empty($openBasedir)) {
-    							curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+                $openBasedir = @ini_get('open_basedir');
+                if (empty($safeMode) && empty($openBasedir)) {
+                    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
                 } else {
-                	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, false);
-                	$rch = curl_copy_handle($ch);
-                	$newurl = $url;
-									curl_setopt($rch, CURLOPT_URL, $newurl);
-        					$header = curl_exec($rch);
-        					if (curl_errno($rch)) {
-          					$code = 0;
-        					} else {
-          					$code = curl_getinfo($rch, CURLINFO_HTTP_CODE);
-          					if ($code == 301 || $code == 302) {
-            					preg_match('/Location:(.*?)\n/i', $header, $matches);
-            					$newurl = trim(array_pop($matches));
-                		}
-                		curl_close($rch);
-      							curl_setopt($ch, CURLOPT_URL, $newurl);
-      					}
-      			}
+                    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, false);
+                    $rch = curl_copy_handle($ch);
+                    $newurl = $url;
+                    curl_setopt($rch, CURLOPT_URL, $newurl);
+                    $header = curl_exec($rch);
+                    if (curl_errno($rch)) {
+                        $code = 0;
+                    } else {
+                        $code = curl_getinfo($rch, CURLINFO_HTTP_CODE);
+                        if ($code == 301 || $code == 302) {
+                            preg_match('/Location:(.*?)\n/i', $header, $matches);
+                            $newurl = trim(array_pop($matches));
+                        }
+                        curl_close($rch);
+                        curl_setopt($ch, CURLOPT_URL, $newurl);
+                    }
+                }
                 $data = curl_exec($ch);
                 curl_close($ch);
             } else {

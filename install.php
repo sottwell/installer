@@ -1,5 +1,5 @@
 <?php
-$version = '1.6.21';
+$version = '1.6.22';
 
 error_reporting(0);
 ini_set('display_errors', 0);
@@ -22,6 +22,25 @@ if (ini_get('allow_url_fopen')) {
 }
 
 $InstallData = array(
+	
+    'revo2.7.2-pl'      => array(
+        'tree'     => 'Revolution',
+        'name'     => 'MODX Revolution 2.7.2 Traditional (09.26.2019)',
+        'link'     => 'https://modx.com/download/direct/modx-2.7.2-pl.zip',
+        'location' => 'setup/index.php'
+    ),
+    'revo2.7.2-ad'      => array(
+        'tree'     => 'Revolution',
+        'name'     => 'MODX Revolution 2.7.2 Advanced (09.26.2019)',
+        'link'     => 'https://modx.com/download/direct/modx-2.7.2-pl-advanced.zip',
+        'location' => 'setup/index.php'
+    ),
+    'revo2.7.2-sdk'      => array(
+        'tree'     => 'Revolution',
+        'name'     => 'MODX Revolution 2.7.2 SDK (09.26.2019)',
+        'link'     => 'https://modx.com/download/direct/modx-2.7.2-pl-sdk.zip',
+        'location' => 'setup/index.php'
+    ),
 	
     'revo2.7.1-pl'      => array(
         'tree'     => 'Revolution',
@@ -58,25 +77,6 @@ $InstallData = array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.7.0 SDK (11.27.2018)',
         'link'     => 'https://modx.com/download/direct/modx-2.7.0-pl-sdk.zip',
-        'location' => 'setup/index.php'
-    ),
-	
-   'revo2.6.5-pl'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.6.5 Traditional (07.13.2018)',
-        'link'     => 'https://modx.com/download/direct/modx-2.6.5-pl.zip',
-        'location' => 'setup/index.php'
-    ),
-    'revo2.6.5-ad'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.6.5 Advanced (07.13.2018)',
-        'link'     => 'https://modx.com/download/direct/modx-2.6.5-pl-advanced.zip',
-        'location' => 'setup/index.php'
-    ),
-    'revo2.6.5-sdk'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.6.5 SDK (07.13.2018)',
-        'link'     => 'https://modx.com/download/direct/modx-2.6.5-pl-sdk.zip',
         'location' => 'setup/index.php'
     )
 );

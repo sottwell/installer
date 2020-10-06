@@ -17,6 +17,10 @@ You may need to change the permissions for newly created folders on line 184. Fo
 
 Changelog:
 
+Version 1.6.24
+(10.06.2020)
+- Add links for Revo 2.8.0
+
 Version 1.6.23
 (02.28.2020)
 - Add links for Revo 2.7.3

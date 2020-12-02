@@ -1,13 +1,13 @@
 ### Script to upload MODX Revolution for installation in 1 Click
 
-#### This script is intended for initial installation. Install BobRay's UpgradeMODX extra for upgrades.
+#### This script is intended for initial installation. Install the Updater extra for upgrades.
 
 
 Place the install.php file in the same directory as your site root. Load it in your browser and select the version you want to install. (i.e. mydomain.com/install.php)
 
 The script will download the selected version from the MODX respository, unzip it in the same location, then forward you to the MODX setup. The install.php script will automatically delete itself.
 
-#### This script is intended for initial installation. Install [BobRay's UpgradeMODX](https://github.com/BobRay/UpgradeMODX) extra for upgrades.
+#### This script is intended for initial installation. Install the Updater extra for upgrades.
 
 In order to be able to directly download the MODX zip archive from the MODX repository, your server must have either allow_url_fopen or cURL enabled.
 

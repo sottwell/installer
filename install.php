@@ -1,5 +1,5 @@
 <?php
-$version = '1.6.25';
+$version = '1.6.26';
 
 error_reporting(0);
 ini_set('display_errors', 0);
@@ -22,6 +22,25 @@ if (ini_get('allow_url_fopen')) {
 }
 
 $InstallData = array(
+	
+'revo2.8.2-pl'      => array(
+        'tree'     => 'Revolution',
+        'name'     => 'MODX Revolution 2.8.2 Traditional (04.28.2021)',
+        'link'     => 'https://modx.com/download/direct/modx-2.8.2-pl.zip',
+        'location' => 'setup/index.php'
+    ),
+    'revo2.8.2-ad'      => array(
+        'tree'     => 'Revolution',
+        'name'     => 'MODX Revolution 2.8.2 Advanced (04.28.2021)',
+        'link'     => 'https://modx.com/download/direct/modx-2.8.2-pl-advanced.zip',
+        'location' => 'setup/index.php'
+    ),
+    'revo2.8.2-sdk'      => array(
+        'tree'     => 'Revolution',
+        'name'     => 'MODX Revolution 2.8.2 SDK (04.28.2021)',
+        'link'     => 'https://modx.com/download/direct/modx-2.8.2-pl-sdk.zip',
+        'location' => 'setup/index.php'
+    ),
 	
 'revo2.8.1-pl'      => array(
         'tree'     => 'Revolution',
@@ -58,82 +77,6 @@ $InstallData = array(
         'tree'     => 'Revolution',
         'name'     => 'MODX Revolution 2.8.0 SDK (10.06.2020)',
         'link'     => 'https://modx.com/download/direct/modx-2.8.0-pl-sdk.zip',
-        'location' => 'setup/index.php'
-    ),
-	
-    'revo2.7.3-pl'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.7.3 Traditional (02.28.2020)',
-        'link'     => 'https://modx.com/download/direct/modx-2.7.3-pl.zip',
-        'location' => 'setup/index.php'
-    ),
-    'revo2.7.3-ad'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.7.3 Advanced (02.28.2020)',
-        'link'     => 'https://modx.com/download/direct/modx-2.7.3-pl-advanced.zip',
-        'location' => 'setup/index.php'
-    ),
-    'revo2.7.3-sdk'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.7.3 SDK (02.28.2020)',
-        'link'     => 'https://modx.com/download/direct/modx-2.7.3-pl-sdk.zip',
-        'location' => 'setup/index.php'
-    ),
-	
-    'revo2.7.2-pl'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.7.2 Traditional (09.26.2019)',
-        'link'     => 'https://modx.com/download/direct/modx-2.7.2-pl.zip',
-        'location' => 'setup/index.php'
-    ),
-    'revo2.7.2-ad'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.7.2 Advanced (09.26.2019)',
-        'link'     => 'https://modx.com/download/direct/modx-2.7.2-pl-advanced.zip',
-        'location' => 'setup/index.php'
-    ),
-    'revo2.7.2-sdk'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.7.2 SDK (09.26.2019)',
-        'link'     => 'https://modx.com/download/direct/modx-2.7.2-pl-sdk.zip',
-        'location' => 'setup/index.php'
-    ),
-	
-    'revo2.7.1-pl'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.7.1 Traditional (02.14.2019)',
-        'link'     => 'https://modx.com/download/direct/modx-2.7.1-pl.zip',
-        'location' => 'setup/index.php'
-    ),
-    'revo2.7.1-ad'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.7.1 Advanced (02.14.2019)',
-        'link'     => 'https://modx.com/download/direct/modx-2.7.1-pl-advanced.zip',
-        'location' => 'setup/index.php'
-    ),
-    'revo2.7.1-sdk'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.7.1 SDK (02.14.2019)',
-        'link'     => 'https://modx.com/download/direct/modx-2.7.1-pl-sdk.zip',
-        'location' => 'setup/index.php'
-    ),
-	
-    'revo2.7.0-pl'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.7.0 Traditional (11.27.2018)',
-        'link'     => 'https://modx.com/download/direct/modx-2.7.0-pl.zip',
-        'location' => 'setup/index.php'
-    ),
-    'revo2.7.0-ad'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.7.0 Advanced (11.27.2018)',
-        'link'     => 'https://modx.com/download/direct/modx-2.7.0-pl-advanced.zip',
-        'location' => 'setup/index.php'
-    ),
-    'revo2.7.0-sdk'      => array(
-        'tree'     => 'Revolution',
-        'name'     => 'MODX Revolution 2.7.0 SDK (11.27.2018)',
-        'link'     => 'https://modx.com/download/direct/modx-2.7.0-pl-sdk.zip',
         'location' => 'setup/index.php'
     )
 );
